@@ -1,0 +1,257 @@
+{
+ "fixtures": {
+  "w11sl01": {
+   "league": 1,
+   "date": "2026-11-26",
+   "time": "15:30",
+   "home": "BORNEO FC SAMARINDA",
+   "away": "PERSITA",
+   "venue": "Segiri"
+  },
+  "w11sl02": {
+   "league": 1,
+   "date": "2026-11-28",
+   "time": "15:30",
+   "home": "ISENMULANG KALTENG FC",
+   "away": "PSS SLEMAN",
+   "venue": "Tuah Pahoe"
+  },
+  "w11sl03": {
+   "league": 1,
+   "date": "2026-11-28",
+   "time": "15:30",
+   "home": "PSM MAKASSAR",
+   "away": "DEWA UNITED BANTEN FC",
+   "venue": "Gelora B. J. Habibie"
+  },
+  "w11sl04": {
+   "league": 1,
+   "date": "2026-11-28",
+   "time": "15:30",
+   "home": "PSIM YOGYAKARTA",
+   "away": "PERSIJAP JEPARA",
+   "venue": "Sultan Agung"
+  },
+  "w11sl05": {
+   "league": 1,
+   "date": "2026-11-28",
+   "time": "15:30",
+   "home": "BALI UNITED FC",
+   "away": "BHAYANGKARA LAMPUNG FC",
+   "venue": "Kapten I Wayan Dipta"
+  },
+  "w11sl06": {
+   "league": 1,
+   "date": "2026-11-28",
+   "time": "19:00",
+   "home": "PERSIJA JAKARTA",
+   "away": "GARUDAYAKSA FC",
+   "venue": "Patriot Chandra Bhaga"
+  },
+  "w11sl07": {
+   "league": 1,
+   "date": "2026-11-28",
+   "time": "19:00",
+   "home": "MADURA UNITED FC",
+   "away": "JAVA UNITED FC",
+   "venue": "Gelora Madura Ratu Pamelingan"
+  },
+  "w11sl08": {
+   "league": 1,
+   "date": "2026-11-29",
+   "time": "15:30",
+   "home": "AREMA FC",
+   "away": "PERSEBAYA SURABAYA",
+   "venue": "Kapten I Wayan Dipta"
+  },
+  "w11sl09": {
+   "league": 1,
+   "date": "2026-11-29",
+   "time": "15:30",
+   "home": "PERSITA",
+   "away": "PERSIB BANDUNG",
+   "venue": "Banten International Stadium"
+  },
+  "w11sl10": {
+   "league": 1,
+   "date": "2026-11-29",
+   "time": "19:00",
+   "home": "BORNEO FC SAMARINDA",
+   "away": "PERSIK KEDIRI",
+   "venue": "Segiri"
+  },
+  "w11ch01": {
+   "league": 2,
+   "date": "2026-11-28",
+   "time": "19:00",
+   "home": "SUMSEL UNITED",
+   "away": "PERSIRAJA BANDA ACEH",
+   "venue": "Gelora Sriwijaya Jakabaring"
+  },
+  "w11ch02": {
+   "league": 2,
+   "date": "2026-11-28",
+   "time": "19:00",
+   "home": "PSPS PEKANBARU",
+   "away": "PERSIKAD",
+   "venue": "Kaharuddin Nasution"
+  },
+  "w11ch03": {
+   "league": 2,
+   "date": "2026-11-29",
+   "time": "15:30",
+   "home": "PSIS SEMARANG",
+   "away": "PSGC CIAMIS",
+   "venue": "Jatidiri"
+  },
+  "w11ch04": {
+   "league": 2,
+   "date": "2026-11-30",
+   "time": "15:30",
+   "home": "PERSIKU KUDUS",
+   "away": "PSMS MEDAN",
+   "venue": "Maguwoharjo"
+  },
+  "w11ch05": {
+   "league": 2,
+   "date": "2026-11-30",
+   "time": "19:00",
+   "home": "ADHYAKSA FC BEKASI",
+   "away": "SEMEN PADANG FC",
+   "venue": "Patriot Chandra Bhaga"
+  },
+  "w11ch06": {
+   "league": 2,
+   "date": "2026-11-28",
+   "time": "15:30",
+   "home": "PS BARITO PUTERA",
+   "away": "DE RED FC",
+   "venue": "17 Mei Banjarmasin"
+  },
+  "w11ch07": {
+   "league": 2,
+   "date": "2026-11-28",
+   "time": "15:30",
+   "home": "PERSELA LAMONGAN",
+   "away": "RANS NUSANTARA FC",
+   "venue": "Surajaya"
+  },
+  "w11ch08": {
+   "league": 2,
+   "date": "2026-11-28",
+   "time": "19:00",
+   "home": "PERSIS SOLO",
+   "away": "DELTRAS FC",
+   "venue": "Manahan"
+  },
+  "w11ch09": {
+   "league": 2,
+   "date": "2026-11-29",
+   "time": "13:30",
+   "home": "PERSIPURA JAYAPURA",
+   "away": "PSBS BIAK",
+   "venue": "Lukas Enembe"
+  },
+  "w11ch10": {
+   "league": 2,
+   "date": "2026-11-29",
+   "time": "19:00",
+   "home": "KENDAL TORNADO FC",
+   "away": "PERSIBA BALIKPAPAN",
+   "venue": "Sriwedari"
+  }
+ },
+ "news": {
+  "n1": {
+   "date": "2026-11-27",
+   "league": 1,
+   "source": "JawaPos & Antara",
+   "time": "12:00",
+   "title": "Jelang Persija vs Garudayaksa: Milos Joksic akui Persija lebih diunggulkan",
+   "url": "https://www.jawapos.com/sepak-bola-indonesia/2611250502/milos-joksic-akui-persija-lebih-unggul-garudayaksa-siap-melawan"
+  },
+  "n2": {
+   "date": "2026-11-27",
+   "league": 2,
+   "source": "Antara & JawaPos",
+   "time": "15:00",
+   "title": "Duel Persis Solo vs Deltras FC: ulangan imbang 3-3 di Sidoarjo",
+   "url": "https://banten.antaranews.com/berita/394787/deltras-fc-waspadai-kejutan-dari-de-red-fc"
+  },
+  "n3": {
+   "date": "2026-11-28",
+   "league": 2,
+   "source": "JawaPos",
+   "time": "12:00",
+   "title": "Derby Papua jilid dua: Persipura vs PSBS Biak, ulangan kemenangan 6-1",
+   "url": "https://www.jawapos.com/sepak-bola-indonesia/2610180371/persipura-jayapura-hancurkan-psbs-biak-6-1-alexsandro-cetak-hattrick"
+  }
+ },
+ "tasks": {
+  "nn-n1": {
+   "brief": {
+    "Tujuan": "Preview laga puncak pekan 11 Super League agar traffic naik sebelum kick-off.",
+    "Konteks": "Persija vs Garudayaksa FC, Sabtu 28/11/2026 pukul 19.00 WIB di Stadion Patriot Chandra Bhaga, Bekasi (jadwal I.League).\nPelatih Garudayaksa Milos Joksic mengakui Persija lebih diunggulkan, tetapi timnya siap melawan (JawaPos, 25/11).\nJoksic juga menegaskan Garudayaksa mengandalkan kekuatan kolektif tim (Antara).\nCatatan: Persija sempat memimpin klasemen setelah pekan 7 (Antara). Cek klasemen terbaru di ileague.id sebelum menulis angka posisi.",
+    "Visual": "Cover 4:5 hitam-kuning: logo kedua klub, teks besar 'PERSIJA vs GARUDAYAKSA', jam 19:00 WIB + stadion. Slide 2: kutipan singkat pelatih (paraphrase, jangan salin kalimat artikel).",
+    "Caption": "Persija diunggulkan, tapi Garudayaksa bilang siap melawan 🔥 Sabtu 28/11, 19:00 WIB di Patriot Chandra Bhaga. Kalian pilih siapa? 👇\nSumber: JawaPos, Antara",
+    "Hashtag": "#SuperLeague #PersijaJakarta #GarudayaksaFC",
+    "Referensi": [
+     {
+      "t": "JawaPos: Joksic akui Persija lebih unggul",
+      "u": "https://www.jawapos.com/sepak-bola-indonesia/2611250502/milos-joksic-akui-persija-lebih-unggul-garudayaksa-siap-melawan"
+     },
+     {
+      "t": "Antara: Garudayaksa andalkan kolektivitas",
+      "u": "https://www.antaranews.com/berita/5879263/garudayaksa-fc-andalkan-kolektivitas-tim-hadapi-persija-jakarta"
+     },
+     {
+      "t": "Jadwal resmi I.League pekan 11",
+      "u": "https://ileague.id/fixtures/index/BRI_SUPER_LEAGUE_2026-27/11/0"
+     }
+    ]
+   }
+  },
+  "nn-n2": {
+   "brief": {
+    "Tujuan": "Preview big match Grup B Championship pekan 11.",
+    "Konteks": "Persis Solo vs Deltras FC, Sabtu 28/11/2026 pukul 19.00 WIB di Stadion Manahan, Solo (jadwal I.League).\nPertemuan pertama berakhir imbang 3-3 di Gelora Delta Sidoarjo pada 18/10 (Antara).\nDeltras sempat memimpin klasemen Grup B pertengahan Oktober dan pelatih Leonard Tupamahu mewaspadai kebangkitan Persis (JawaPos, 16/10).\nPersis kalah 1-2 dari Barito Putera pada 30/10 (Kompas). Cek klasemen terbaru sebelum menulis posisi.",
+    "Visual": "Cover 4:5: logo Persis vs Deltras, skor leg pertama '3-3' sebagai angka besar, jam 19:00 WIB + Manahan.",
+    "Caption": "Leg pertama 3-3, gol-gol meledak! Siapa yang menang di Manahan malam ini? 👇\nSumber: Antara, JawaPos",
+    "Hashtag": "#PegadaianChampionship #PersisSolo #DeltrasFC",
+    "Referensi": [
+     {
+      "t": "Antara: Deltras FC (profil laga)",
+      "u": "https://banten.antaranews.com/berita/394787/deltras-fc-waspadai-kejutan-dari-de-red-fc"
+     },
+     {
+      "t": "JawaPos: Deltras waspadai kebangkitan Persis",
+      "u": "https://www.jawapos.com/sepak-bola-indonesia/2610160056/pimpin-klasemen-grup-b-pegadaian-championship-deltras-fc-waspadai-ancaman-kebangkitan-persis-solo"
+     },
+     {
+      "t": "Jadwal resmi I.League pekan 11",
+      "u": "https://ileague.id/fixtures/index/PEGADAIAN_CHAMPIONSHIP_2026-27/11/0"
+     }
+    ]
+   }
+  },
+  "nn-n3": {
+   "brief": {
+    "Tujuan": "Konten rivalitas Derby Papua untuk engagement tinggi di akun Championship.",
+    "Konteks": "Persipura Jayapura vs PSBS Biak, Minggu 29/11/2026 pukul 13.30 WIB di Stadion Lukas Enembe (jadwal I.League).\nPertemuan pertama: Persipura menang 6-1 pada 17/10 di Sriwedari, Alexsandro mencetak hattrick (JawaPos).\nPSBS sempat menelan lima kekalahan beruntun di awal musim (JawaPos). Menurut tabel Kompas setelah 8 laga, PSBS di dasar klasemen dan Persipura mengumpulkan 10 poin. Angka bisa sudah berubah, cek klasemen terbaru.",
+    "Visual": "Cover 4:5 merah-hitam: 'DERBY PAPUA', logo kedua tim, skor leg pertama '6-1' sebagai teks pembanding, jam 13:30 WIB.",
+    "Caption": "Derby Papua jilid dua! Leg pertama 6-1 untuk Persipura. Berani prediksi skor hari ini? 👇\nSumber: JawaPos",
+    "Hashtag": "#PegadaianChampionship #Persipura #PSBSBiak #DerbyPapua",
+    "Referensi": [
+     {
+      "t": "JawaPos: Persipura hancurkan PSBS 6-1",
+      "u": "https://www.jawapos.com/sepak-bola-indonesia/2610180371/persipura-jayapura-hancurkan-psbs-biak-6-1-alexsandro-cetak-hattrick"
+     },
+     {
+      "t": "Jadwal resmi I.League pekan 11",
+      "u": "https://ileague.id/fixtures/index/PEGADAIAN_CHAMPIONSHIP_2026-27/11/0"
+     }
+    ]
+   }
+  }
+ }
+}
